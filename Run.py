@@ -160,7 +160,7 @@ def menu():
 	logo()
 	print(" \033[0;97m[\033[0;96m+\033[0;97m] User Active : %s"%(nama))
 	print(" \033[0;97m[\033[0;96m+\033[0;97m] IP Address  : "+ip)
-	print(" \033[0;97m[\033[0;93m#\033[0;97m]  
+	print(" \033[0;97m[\033[0;93m#\033[0;97m]--------------------------------------------") 
 	print(" \033[0;97m[\033[0;96m1\033[0;97m] Crack From Public")
 	print(" \033[0;97m[\033[0;96m2\033[0;97m] Crack From Follower")
 	print(" \033[0;97m[\033[0;96m3\033[0;97m] Crack From Reaction")
