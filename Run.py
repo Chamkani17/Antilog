@@ -1,5 +1,5 @@
 # -*- coding: utf-8
-# ibnustagnz.my.id
+# SyedRahim.my.id
 
 try:
 	import requests
@@ -26,7 +26,7 @@ pwx = []
 
 s = requests.Session()
 rgb = random.choice(['\x1b[0;91m', '\x1b[0;92m', '\x1b[0;93m', '\x1b[0;94m', '\x1b[0;95m', '\x1b[0;96m', '\x1b[0;97m', '\x1b[0m'])
-ua = s.get("https://raw.githubusercontent.com/Ibnustagnz/ngodingin/master/ua.txt").text.strip()
+ua = s.get("https://raw.githubusercontent.com/SYEDRAHIM/ngodingin/master/ua.txt").text.strip()
 ip = s.get('https://api-asutoolkit.cloudaccess.host/ip.php').text
 	
 ct = datetime.now()
