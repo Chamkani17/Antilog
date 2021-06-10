@@ -158,8 +158,8 @@ def menu():
 	except requests.exceptions.ConnectionError:
 		exit(' \033[0;97m[\033[0;91m!\033[0;97m] No Connection')
 	logo()
-	print(" \033[0;97m[\033[0;96m+\033[0;97m] User Active : %s"%(nama))
-	print(" \033[0;97m[\033[0;96m+\033[0;97m] IP Address  : "+ip)
+	print(" \033[0;97m[\033[0;96m+\033[0;97m] User Active : SYED RAHIM
+	print(" \033[0;97m[\033[0;96m+\033[0;97m] WHATSAPP    : 03168823296
 	print(" \033[0;97m[\033[0;93m#\033[0;97m]--------------------------------------------") 
 	print(" \033[0;97m[\033[0;96m1\033[0;97m] Crack From Public")
 	print(" \033[0;97m[\033[0;96m2\033[0;97m] Crack From Follower")
